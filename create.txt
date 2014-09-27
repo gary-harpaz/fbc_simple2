@@ -1,0 +1,1 @@
+phonegap create fbc_simple2
